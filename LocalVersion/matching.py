@@ -110,7 +110,7 @@ for a in sigma:
                 Ma.append(1)
             else:
                 Ma.append(0)
-    print(Ma)
+    # print(Ma)
     M_list.append(Ma)
 M = []
 for i in range(0, len(M_list[0])):
